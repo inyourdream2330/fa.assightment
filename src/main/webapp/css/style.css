@@ -1,0 +1,24 @@
+h4{
+	color: green;
+}
+
+body{
+	background-color: grey;
+}
+
+.bgw{
+	background-color: white;
+}
+.bgb{
+	background-color: cyan;
+}
+
+.bd{
+	border:1px solid black;
+}
+.error{
+    color: red;
+}
+.footer{
+	height:200px;
+}
